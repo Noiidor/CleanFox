@@ -29,10 +29,31 @@
 
 - **Bookmarks:** Use Firefox`s Bookmarks function for quick access to frequently used websites through search bar, icons in Firefox default "New Tab" are disabled.
 
+## Installation
+
+- "user.js" file should be placed in Firefox user profile root directory.
+- "chrome" directory as well should be placed entirely under profile root directory.
+- "sidebery-styles.css" content should be copied in Sidebery settings in "Styles Editor".
+
 ## Screenshots
 
-![Completely clean!](./docs/newtab.png "NewTab")
-![Minimum distraction](./docs/newtab_sidebar.png "NewTab with sidebar")
-![Even scrollbar is thin](./docs/ghub.png "GitHub")
-![Tiny cute navbar](./docs/ghub_navbar.png "GitHub with navbar")
-![Colors adapting for each website](./docs/ghub_sidebar.png "GitHub with sidebar")
+![](./docs/newtab.png "NewTab")
+*Completely clean!*
+
+---
+![](./docs/newtab_sidebar.png "NewTab with sidebar")
+*Minimum distraction*
+
+---
+![](./docs/ghub.png "GitHub")
+*Even scrollbar is thin*
+
+---
+![](./docs/ghub_navbar.png "GitHub with navbar")
+*Tiny cute navbar*
+
+---
+![](./docs/ghub_sidebar.png "GitHub with sidebar")
+*Colors adapting for each website*
+
+---
